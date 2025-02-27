@@ -10,7 +10,7 @@ description: >-
   most of the time.
 featuredImage:
   type: ImageBlock
-  url: /images/IMG_1244.jpeg
+  url: /images/imagejpeg_0.jpeg
   altText: altText of the image
   caption: Caption of the image
   elementId: ''

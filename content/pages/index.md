@@ -14,7 +14,10 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: 'Hi, I am massimo'
-    subtitle: 'I am also called Massimo, Mass, Zetty, Jhomas, & The Oracle. Enjoy!'
+    subtitle: >-
+      I am dedicated to the study of competition economics and policy, focusing
+      on the regulation of market power to foster fair and competitive economic
+      systems.
     styles:
       self:
         height: auto

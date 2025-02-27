@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: My name is mimo. this is my world
+    title: 'Hi, I am massimo'
     subtitle: 'I am also called Massimo, Mass, Zetty, Jhomas, & The Oracle. Enjoy!'
     styles:
       self:

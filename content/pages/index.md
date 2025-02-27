@@ -15,9 +15,10 @@ sections:
     backgroundSize: full
     title: 'Hi, I am massimo'
     subtitle: >-
-      I am dedicated to the study of competition economics and policy, focusing
-      on the regulation of market power to foster fair and competitive economic
-      systems.
+      I aim to study competition economics and policy to challenge monopolistic
+      power and promote fairer markets. I’m particularly interested in the
+      strategies digital platforms use to maintain dominance and how they can be
+      regulated.
     styles:
       self:
         height: auto

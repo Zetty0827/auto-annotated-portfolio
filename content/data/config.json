@@ -72,7 +72,7 @@
             "type": "ContactBlock",
             "title": "Contact details",
             "phoneNumber": "305-333-6411",
-            "phoneAltText": "My phone number",
+            "phoneAltText": "",
             "email": "iam@mimos.world",
             "emailAltText": "My email",
             "address": "",

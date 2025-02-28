@@ -247,7 +247,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+      iam\@mimos.world
   - type: DividerSection
     styles:
       self:

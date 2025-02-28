@@ -13,11 +13,19 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >+
+      ## I’m Massimo, an economics student at Vanderbilt University with minors
+      in computer science and Mediterranean studies. I grew up in Miami and
+      enjoy the ocean, nature, and sports. I’m particularly interested in
+      competition economics and the power dynamics of the tech industry. As
+      technology continues to shape markets and society, dominant companies
+      often use their influence to suppress competition and control digital
+      spaces. I want to understand the strategies these companies use to
+      maintain their power and explore how policy and regulation can create
+      fairer, more competitive markets while ensuring innovation and consumer
+      protection. My goal is to build a career that challenges monopolistic
+      practices and pushes for meaningful economic change.
+
     media:
       type: ImageBlock
       url: /images/about.jpg

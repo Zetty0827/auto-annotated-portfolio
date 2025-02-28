@@ -28,7 +28,7 @@ sections:
 
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/IMG_4624.jpeg
       altText: Hero image
     styles:
       self:

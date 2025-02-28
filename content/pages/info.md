@@ -14,9 +14,9 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      ## I’m Massimo, an economics student at Vanderbilt University with minors
-      in computer science and Mediterranean studies. I grew up in Miami and
-      enjoy the ocean, nature, and sports. I’m particularly interested in
+      ##### I’m Massimo, an economics student at Vanderbilt University with
+      minors in computer science and Mediterranean studies. I grew up in Miami
+      and enjoy the ocean, nature, and sports. I’m particularly interested in
       competition economics and the power dynamics of the tech industry. As
       technology continues to shape markets and society, dominant companies
       often use their influence to suppress competition and control digital

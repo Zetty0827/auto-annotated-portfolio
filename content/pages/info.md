@@ -90,6 +90,9 @@ sections:
       - type: Label
         label: Italian
         url: ''
+      - type: Label
+        label: Problem Solving
+        url: ''
   - type: DividerSection
     styles:
       self:

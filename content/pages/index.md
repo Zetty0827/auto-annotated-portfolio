@@ -15,10 +15,12 @@ sections:
     backgroundSize: full
     title: 'Hi, I am massimo'
     subtitle: >-
-      I aim to study competition economics and policy to challenge monopolistic
-      power and promote fairer markets. I’m particularly interested in the
-      strategies digital platforms use to maintain dominance and how they can be
-      regulated.
+      Hi, I’m Massimo Moscetti. I’m interested in competition economics and
+      policy, especially how digital platforms maintain power and how they can
+      be regulated to create fairer markets.This is my personal website, where
+      I’ll share my thoughts on economics, competition policy, and current
+      events. I’ll be posting about new developments, my opinions on economic
+      news, and other topics that interest me.
     styles:
       self:
         height: auto
@@ -46,44 +48,8 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-  - colors: colors-f
-    type: FeaturedProjectsSection
-    elementId: ''
-    actions:
-      - type: Link
-        label: See all projects
-        url: /projects
-    showDate: false
-    showDescription: true
-    showFeaturedImage: true
-    showReadMoreLink: true
-    variant: variant-b
-    projects:
-      - content/pages/projects/project-two.md
-      - content/pages/projects/project-three.md
-      - content/pages/projects/project-one.md
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: flex-end
-    subtitle: Projects
+    text: |
+      Check out my info page to learn more about me.
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
@@ -96,8 +62,6 @@ sections:
         url: /blog
     posts:
       - content/pages/blog/post-six.md
-      - content/pages/blog/post-four.md
-      - content/pages/blog/post-three.md
     showDate: true
     showExcerpt: true
     showReadMoreLink: true

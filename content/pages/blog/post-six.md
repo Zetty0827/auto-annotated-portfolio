@@ -1,115 +1,43 @@
 ---
 type: PostLayout
-title: How to Structure and Organize a Next.js Project 🗂️
+title: 'Technology, Economy, & Society'
 colors: colors-a
-date: '2024-06-03'
+date: '2025-03-03'
 author: content/data/team/doris-soto.json
 excerpt: >-
-  More context that may or may not be helpful
+  How social media quietly seized control of economies, governments, and the way
+  we think.
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image6.jpg
+  url: /images/post-2.jpg
   altText: Post thumbnail image
-bottomSections:
-  - elementId: ''
-    type: RecentPostsSection
-    colors: colors-f
-    variant: variant-d
-    subtitle: Recent posts
-    showDate: true
-    showAuthor: false
-    showExcerpt: true
-    recentCount: 2
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-12
-          - pb-56
-          - pr-4
-          - pl-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: center
-    showFeaturedImage: true
-    showReadMoreLink: true
-  - type: ContactSection
-    backgroundSize: full
-    title: 'Stay up-to-date with my words ✍️'
-    colors: colors-f
-    form:
-      type: FormBlock
-      elementId: sign-up-form
-      fields:
-        - name: firstName
-          label: First Name
-          hideLabel: true
-          placeholder: First Name
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: lastName
-          label: Last Name
-          hideLabel: true
-          placeholder: Last Name
-          isRequired: false
-          width: 1/2
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Email
-          isRequired: true
-          width: full
-          type: EmailFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve my words
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
-      styles:
-        submitLabel:
-          textAlign: center
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-4
-          - mr-4
-        padding:
-          - pt-24
-          - pb-24
-          - pr-4
-          - pl-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      text:
-        textAlign: left
+bottomSections: []
+media:
+  type: VideoBlock
+  title: 'How technology, economy & society impact each other'
+  url: 'https://www.youtube.com/watch?v=QQqRBH8__1U'
+  elementId: ''
+  autoplay: false
+  loop: false
+  muted: false
+  controls: true
+  aspectRatio: '16:9'
 ---
+Technology has always advanced economies and societies, but technology is attempting to control them. In a recent interview, social psychologist Jonathan Haidt argues that platforms like Facebook, Twitter, and TikTok haven’t just transformed how people interact—they’ve shifted power away from traditional institutions and concentrated it in the hands of a few companies. Haidt’s argument goes beyond social media’s effects on mental health or polarization. He sees it as something larger, a restructuring of economic and political control. The way information spreads, the way businesses compete, and the way governments function are all being rewritten by algorithms designed to maximize engagement, not serve the public good.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+Haidt points out that social media companies operate differently than traditional businesses. Instead of selling a product or service, they sell human attention. Every click, comment, and interaction fuels an industry where user behavior itself is the product. These companies don’t just profit from what people do; they shape it. Competition in this space barely exists. When a platform gets too powerful, it doesn’t face challengers—it buys them out or buries them. Facebook swallowed Instagram and WhatsApp. Google controls search, advertising, and video content through YouTube. These companies don’t just dominate industries; they define the rules of engagement. Meanwhile, institutions that once held authority—news organizations, universities, even governments—now depend on social media to function. Information is filtered through algorithms that no one outside the tech industry fully understands, let alone regulates. The economy hasn’t just adapted to social media; it revolves around it.
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+Haidt argues that social media, driven by algorithms, shapes people's opinions by determining what they see. Algorithms don’t reward accuracy; they reward engagement. The posts that trigger the strongest reactions—whether through outrage, controversy, or pure entertainment—are the ones that spread. This shift has weakened institutions that once held authority over knowledge. Universities, journalists, and policymakers no longer compete on credibility but on visibility. The algorithm, for example, determines whether a well-researched report or a viral conspiracy theory gets more visibility. But Haidt’s concern goes beyond misinformation. Social media doesn’t just reflect user behavior; it trains it. Platforms guide interactions by pushing certain types of content while suppressing others. They don’t just respond to human habits; they shape them, reinforcing behaviors that keep people engaged and filtering out those that don’t. The result is an environment where what gets attention isn’t what’s most valuable—it’s what holds the user’s gaze the longest.
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+Haidt claims tech monopolies have taken power away from governments. Traditional regulatory systems fail to keep up. Laws written for print newspapers and television networks don’t apply in a world where algorithms determine what people see. The European Union has attempted to rein in digital monopolies, but in the United States, regulation is almost nonexistent. Without intervention, Haidt argues, these companies will continue to shape the economy, society, and possibly even democracy itself.
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+Haidt references Four Futures: Life After Capitalism by Peter Frase, a book that outlines four possible directions for society based on economic and technological trends. The four scenarios are:
+1\. Communism – Technology eliminates scarcity, leading to a world of shared prosperity.
+2\. Rentism – A few corporations maintain control by owning intellectual property and digital infrastructure.
+3\. Socialism – Scarcity forces society toward a collectivist economy.
+4\. Exterminism – A small elite hoards resources while the rest of society struggles to survive.
+Haidt believes we are moving toward rentism.
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+Haidt’s concerns aren’t just speculation—they’re already playing out in ways that are easy to overlook. Some tech companies don’t just dominate markets; they build their own ecosystems. Employees live in corporate-designed environments, cut off from the economic realities outside, while the cities around them deal with rising costs and homelessness. These companies operate as if they exist outside the societies they profit from.
+
+We haven’t reached a point where regulation is impossible, but waiting too long will make it harder to reverse course. These companies are embedding themselves deeper into economic and social structures, making them more resistant to change. If they continue expanding without oversight, the window for meaningful intervention will shrink. Stronger antitrust enforcement, transparency in algorithmic decision-making, and stricter data protections are necessary to curb their growing influence. This isn’t just about market competition anymore—it’s about who decides what the future looks like.

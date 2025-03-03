@@ -15,10 +15,12 @@ sections:
     backgroundSize: full
     title: 'Hi, I am massimo'
     subtitle: >-
-      I aim to study competition economics and policy to challenge monopolistic
-      power and promote fairer markets. I’m particularly interested in the
-      strategies digital platforms use to maintain dominance and how they can be
-      regulated.
+      Hi, I’m Massimo Moscetti. I’m interested in competition economics and
+      policy, especially how digital platforms maintain power and how they can
+      be regulated to create fairer markets.This is my personal website, where
+      I’ll share my thoughts on economics, competition policy, and current
+      events. I’ll be posting about new developments, my opinions on economic
+      news, and other topics that interest me.
     styles:
       self:
         height: auto

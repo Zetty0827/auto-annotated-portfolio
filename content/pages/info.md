@@ -68,12 +68,7 @@ sections:
         borderStyle: solid
   - type: FeaturedItemsSection
     colors: colors-f
-    items:
-      - type: FeaturedItem
-        actions: []
-        styles:
-          self:
-            textAlign: left
+    items: []
     columns: 3
     spacingX: 120
     spacingY: 0

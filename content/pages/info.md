@@ -225,7 +225,7 @@ sections:
       - type: Label
         label: Python
       - type: Label
-        label: Pancakes
+        label: R
       - type: Label
         label: C++
       - type: Label

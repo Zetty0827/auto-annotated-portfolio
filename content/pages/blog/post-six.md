@@ -4,7 +4,9 @@ title: 'Technology, Economy, & Society'
 colors: colors-a
 date: '2025-03-03'
 author: content/data/team/doris-soto.json
-excerpt: ''
+excerpt: >-
+  How social media quietly seized control of economies, governments, and the way
+  we think.
 featuredImage:
   type: ImageBlock
   url: /images/post-2.jpg

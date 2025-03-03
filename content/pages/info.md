@@ -4,7 +4,7 @@ title: About
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg4.jpg
+  url: /images/IMG_8999.jpeg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
@@ -16,15 +16,16 @@ sections:
     text: >+
       #### I’m Massimo, an economics student at Vanderbilt University with
       minors in computer science and Mediterranean studies. I grew up in Miami
-      and enjoy the ocean, nature, and sports. I’m particularly interested in
-      competition economics and the power dynamics of the tech industry. As
-      technology continues to shape markets and society, dominant companies
-      often use their influence to suppress competition and control digital
-      spaces. I want to understand the strategies these companies use to
-      maintain their power and explore how policy and regulation can create
-      fairer, more competitive markets while ensuring innovation and consumer
-      protection. My goal is to build a career that challenges monopolistic
-      practices and pushes for meaningful economic change.
+      and enjoy the ocean, nature, and sports — primarily tennis, soccer, golf,
+      and pickleball. I’m particularly interested in competition economics and
+      the power dynamics of the tech industry. As technology continues to shape
+      markets and society, dominant companies often use their influence to
+      suppress competition and control digital spaces. I want to understand the
+      strategies these companies use to maintain their power and explore how
+      policy and regulation can create fairer, more competitive markets while
+      ensuring innovation and consumer protection. My goal is to build a career
+      that challenges monopolistic practices and pushes for meaningful economic
+      change.
 
     media:
       type: ImageBlock
@@ -88,6 +89,18 @@ sections:
         label: Spanish
       - type: Label
         label: Italian
+        url: ''
+      - type: Label
+        label: Problem Solving
+        url: ''
+      - type: Label
+        label: Time Management
+        url: ''
+      - type: Label
+        label: Leadership
+        url: ''
+      - type: Label
+        label: Teamwork
         url: ''
   - type: DividerSection
     styles:

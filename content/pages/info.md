@@ -276,18 +276,15 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: |+
+          Palmer Trinity High School Class of 2021
 
-          * ba computer sciense at a semi fancy school
+          Vanderbilt University Class of 2025
 
-          **2014**
+          *   Major: Economics
 
-          * react certificate somewhere
+          *   Minors: Computer Science, Mediterranean Studies
 
-          **2011**
-
-          * my highschool
         styles:
           self:
             textAlign: left

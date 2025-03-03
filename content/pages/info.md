@@ -221,7 +221,7 @@ sections:
       - type: Label
         label: Microsoft Office
       - type: Label
-        label: Next.js
+        label: Microsoft Excel
       - type: Label
         label: Netlify
       - type: Label

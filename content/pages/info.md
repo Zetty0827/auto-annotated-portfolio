@@ -217,7 +217,7 @@ sections:
       - type: Label
         label: Microsoft Power Apps
       - type: Label
-        label: React
+        label: SQL
       - type: Label
         label: Microsoft Office
       - type: Label

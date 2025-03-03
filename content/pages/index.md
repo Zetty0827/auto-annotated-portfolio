@@ -46,6 +46,8 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+    text: |
+      Check out my info page to learn more about me.
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f

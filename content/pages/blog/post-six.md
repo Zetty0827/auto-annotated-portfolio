@@ -32,10 +32,15 @@ Haidt argues that social media, driven by algorithms, shapes people's opinions b
 Haidt claims tech monopolies have taken power away from governments. Traditional regulatory systems fail to keep up. Laws written for print newspapers and television networks don’t apply in a world where algorithms determine what people see. The European Union has attempted to rein in digital monopolies, but in the United States, regulation is almost nonexistent. Without intervention, Haidt argues, these companies will continue to shape the economy, society, and possibly even democracy itself.
 
 Haidt references Four Futures: Life After Capitalism by Peter Frase, a book that outlines four possible directions for society based on economic and technological trends. The four scenarios are:
-1\. Communism – Technology eliminates scarcity, leading to a world of shared prosperity.
-2\. Rentism – A few corporations maintain control by owning intellectual property and digital infrastructure.
-3\. Socialism – Scarcity forces society toward a collectivist economy.
-4\. Exterminism – A small elite hoards resources while the rest of society struggles to survive.
+
+1.  Communism – Technology eliminates scarcity, leading to a world of shared prosperity.
+
+2.  Rentism – A few corporations maintain control by owning intellectual property and digital infrastructure.
+
+3.  Socialism – Scarcity forces society toward a collectivist economy.
+
+4.  Exterminism – A small elite hoards resources while the rest of society struggles to survive. 
+
 Haidt believes we are moving toward rentism.
 
 Haidt’s concerns aren’t just speculation—they’re already playing out in ways that are easy to overlook. Some tech companies don’t just dominate markets; they build their own ecosystems. Google’s headquarters provides nearly everything employees need on-site, Meta is developing "Willow Village," a company-run neighborhood, Amazon’s warehouse workers rely on company-provided transport and logistics, and Apple’s $5 billion campus keeps employees inside a closed-loop work environment. Workers live and operate within corporate-designed spaces, cut off from the economic realities outside, while the cities around them deal with rising costs and homelessness. These companies operate as if they exist outside the societies they profit from.

@@ -97,6 +97,9 @@ sections:
         label: Time Management
         url: ''
       - type: Label
+        label: Leadership
+        url: ''
+      - type: Label
         label: Teamwork
         url: ''
   - type: DividerSection

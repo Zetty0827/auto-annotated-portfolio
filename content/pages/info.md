@@ -119,7 +119,7 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: "*   *Business Systems Analyst Intern,* TD Bank (*Summer 2024)*\n\n*   *Accounting Intern*, Cantera & Associates (*Summer 2019-2021, 2023)*\n\n*   *Intern,* Pan American Consulting Inc \_(*Summer 2022)*\n\nAcademic Research:\n\n*   Research Assistant, University of Miami Astrophysics Department\_(Summer 2023, 2018 - 2021)\n\n    *   *   *   Publications: [https://arxiv.org/pdf/2407.09617,](https://arxiv.org/pdf/2407.09617) [https://arxiv.org/pdf/2208.12271,](https://arxiv.org/pdf/2208.12271) [https://arxiv.org/pdf/2008.02283 ](https://arxiv.org/pdf/2008.02283)\n\n"
+        text: "*   *Business Systems Analyst Intern,* TD Bank (*Summer 2024)*\n\n*   *Accounting Intern*, Cantera & Associates (*Summer 2019-2021, 2023)*\n\n*   *Intern,* Pan American Consulting Inc \_(*Summer 2022)*\n\nAcademic Research:\n\n*   Research Assistant, University of Miami Astrophysics Department\_(Summer 2023, 2018 - 2021)\n\n    *   Publications: [https://arxiv.org/pdf/2407.09617,](https://arxiv.org/pdf/2407.09617) [https://arxiv.org/pdf/2208.12271,](https://arxiv.org/pdf/2208.12271) [https://arxiv.org/pdf/2008.02283 ](https://arxiv.org/pdf/2008.02283)\n\n"
         styles:
           self:
             textAlign: left

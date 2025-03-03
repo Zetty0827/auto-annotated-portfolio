@@ -104,7 +104,7 @@ bottomSections:
 media:
   type: VideoBlock
   title: 'How technology, economy & society impact each other'
-  url: 'https://youtu.be/BD-YliszGkA'
+  url: ''
   elementId: ''
   autoplay: false
   loop: false

@@ -93,6 +93,9 @@ sections:
       - type: Label
         label: Problem Solving
         url: ''
+      - type: Label
+        label: Time Management
+        url: ''
   - type: DividerSection
     styles:
       self:

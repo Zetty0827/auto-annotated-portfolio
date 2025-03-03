@@ -223,7 +223,7 @@ sections:
       - type: Label
         label: Microsoft Excel
       - type: Label
-        label: Netlify
+        label: Python
       - type: Label
         label: Pancakes
       - type: Label

@@ -230,6 +230,9 @@ sections:
         label: C++
       - type: Label
         label: Swift
+      - type: Label
+        label: Italian
+        url: ''
   - type: DividerSection
     styles:
       self:

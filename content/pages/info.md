@@ -229,7 +229,7 @@ sections:
       - type: Label
         label: C++
       - type: Label
-        label: Swift
+        label: Spanish
       - type: Label
         label: Italian
         url: ''

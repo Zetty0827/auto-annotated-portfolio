@@ -12,38 +12,6 @@ featuredImage:
   url: /images/post-2.jpg
   altText: Post thumbnail image
 bottomSections:
-  - elementId: ''
-    type: RecentPostsSection
-    colors: colors-f
-    variant: variant-d
-    subtitle: Recent posts
-    showDate: true
-    showAuthor: false
-    showExcerpt: true
-    recentCount: 2
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-12
-          - pb-56
-          - pr-4
-          - pl-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: center
-    showFeaturedImage: true
-    showReadMoreLink: true
   - type: ContactSection
     backgroundSize: full
     title: Stay up-to-date with my words ✍️

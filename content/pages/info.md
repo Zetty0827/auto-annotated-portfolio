@@ -70,10 +70,7 @@ sections:
     colors: colors-f
     items:
       - type: FeaturedItem
-        actions:
-          - type: Link
-            label: GitHub
-            url: 'https://github.com/'
+        actions: []
         styles:
           self:
             textAlign: left

@@ -265,26 +265,7 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
-          **Current**
-
-          * freelance @freelance.me
-
-          **2018-2021**
-
-          * fullstack at this startup
-
-          **2015**
-
-          * senior front-end at this place
-
-          **2013**
-
-          * intern developer at a big company
-
-          **2011**
-
-          * flipping burgers
+        text: "\n\n\n\n\n\nAcademic Research:\n\n*   *Research Assistant*, University of Miami Astrophysics Department\_(*Summer 2023, 2018 - 2021)*\n\n    *   [https://iopscience.iop.org/article/10.3847/1538-4357/ac9fcf ](https://iopscience.iop.org/article/10.3847/1538-4357/ac9fcf)\n\n    *   [https://iopscience.iop.org/article/10.3847/1538-4357/ad6df4 ](https://iopscience.iop.org/article/10.3847/1538-4357/ad6df4)\n\nWork Experience:\n\n*   *Business Systems Analyst Intern,* TD Bank (*Summer 2024)*\n\n*   *Accounting Intern*, Cantera & Associates (*Summer 2019-2021, and 2023)*\n\n*   *Intern,* Pan American Consulting Inc \_(*Summer 2022)*\n\n\n\n"
         styles:
           self:
             textAlign: left

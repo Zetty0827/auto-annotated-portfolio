@@ -101,6 +101,16 @@ bottomSections:
         textAlign: left
       text:
         textAlign: left
+media:
+  type: VideoBlock
+  title: Title of the video
+  url: 'https://youtu.be/BD-YliszGkA'
+  elementId: ''
+  autoplay: false
+  loop: false
+  muted: false
+  controls: true
+  aspectRatio: '16:9'
 ---
 Technology has always advanced economies and societies, but technology is attempting to control them. In a recent [interview](https://www.youtube.com/watch?v=QQqRBH8__1U), social psychologist Jonathan Haidt argues that platforms like Facebook, Twitter, and TikTok haven’t just transformed how people interact—they’ve shifted power away from traditional institutions and concentrated it in the hands of a few companies. Haidt’s argument goes beyond social media’s effects on mental health or polarization. He sees it as something larger, a restructuring of economic and political control. The way information spreads, the way businesses compete, and the way governments function are all being rewritten by algorithms designed to maximize engagement, not serve the public good.
 

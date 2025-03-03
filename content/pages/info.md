@@ -215,7 +215,7 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: Power Apps
+        label: Microsoft Power Apps
       - type: Label
         label: React
       - type: Label

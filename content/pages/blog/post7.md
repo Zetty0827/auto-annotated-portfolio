@@ -15,7 +15,7 @@ media:
   type: ImageBlock
   url: /images/GoogleEU.jpg
   altText: Post image
-  caption: Caption of the image
+  caption: ''
   elementId: ''
 addTitleSuffix: true
 colors: colors-a

@@ -16,7 +16,7 @@ media:
   caption: ''
   elementId: ''
 addTitleSuffix: true
-colors: colors-b
+colors: colors-e
 backgroundImage:
   type: BackgroundImage
   url: /images/IMG_5479.jpeg

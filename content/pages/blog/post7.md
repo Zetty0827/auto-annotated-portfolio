@@ -16,7 +16,7 @@ media:
   caption: ''
   elementId: ''
 addTitleSuffix: true
-colors: colors-c
+colors: colors-d
 backgroundImage:
   type: BackgroundImage
   url: /images/IMG_9078.jpeg

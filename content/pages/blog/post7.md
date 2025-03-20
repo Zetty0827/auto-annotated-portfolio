@@ -19,7 +19,7 @@ addTitleSuffix: true
 colors: colors-e
 backgroundImage:
   type: BackgroundImage
-  url: /images/IMG_5479.jpeg
+  url: /images/IMG_0376.jpeg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat

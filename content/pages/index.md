@@ -62,6 +62,7 @@ sections:
         url: /blog
     posts:
       - content/pages/blog/post-six.md
+      - content/pages/blog/post7.md
     showDate: true
     showExcerpt: true
     showReadMoreLink: true

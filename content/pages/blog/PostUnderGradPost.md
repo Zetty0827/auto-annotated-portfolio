@@ -53,17 +53,17 @@ I want a world where access to money, information, and communication is treated 
 
 That means:
 
-Public digital wallets that don’t require perfect paperwork or a smartphone.
+*   Public digital wallets that don’t require perfect paperwork or a smartphone.
 
-KYC/AML reform that protects both security and accessibility.
+*   KYC/AML reform that protects both security and accessibility.
 
-Interoperable systems that break corporate lock-in.
+*   Interoperable systems that break corporate lock-in.
 
-Privacy that’s protected by law, not buried in a settings menu.
+*   Privacy that’s protected by law, not buried in a settings menu.
 
-Terms of service written in human language, not legalese designed to confuse.
+*   Terms of service written in human language, not legalese designed to confuse.
 
-I want regulators to act like regulators, not brand ambassadors. I want governments to stop begging tech platforms for favors and start reclaiming public oversight over systems that now define citizenship, labor, and survival.
+*   I want regulators to act like regulators, not brand ambassadors. I want governments to stop begging tech platforms for favors and start reclaiming public oversight over systems that now define citizenship, labor, and survival.
 
 And I want the people building these systems — engineers, economists, designers, policymakers — to ask themselves a basic question: Who is this for? If the answer isn’t everyone, start over.
 

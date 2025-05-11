@@ -63,8 +63,8 @@ sections:
         url: /blog
     posts:
       - content/pages/blog/PostUnderGradPost.md
-      - content/pages/blog/post-six.md
       - content/pages/blog/post7.md
+      - content/pages/blog/post-six.md
     showDate: true
     showExcerpt: true
     showReadMoreLink: true

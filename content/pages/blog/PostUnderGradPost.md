@@ -8,6 +8,7 @@ featuredImage:
   altText: Post thumbnail image
   caption: Caption of the image
   elementId: ''
+  url: /images/BackgroundBlue.jpg
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:

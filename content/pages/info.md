@@ -14,22 +14,37 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      #### I’m Massimo, an economics student at Vanderbilt University with
-      minors in computer science and Mediterranean studies. I grew up in Miami
-      and enjoy the ocean, nature, and sports — primarily tennis, soccer, golf,
-      and pickleball. I’m particularly interested in competition economics and
-      the power dynamics of the tech industry. As technology continues to shape
-      markets and society, dominant companies often use their influence to
-      suppress competition and control digital spaces. I want to understand the
-      strategies these companies use to maintain their power and explore how
-      policy and regulation can create fairer, more competitive markets while
-      ensuring innovation and consumer protection. My goal is to build a career
-      that challenges monopolistic practices and pushes for meaningful economic
-      change.
+      ### I’m Massimo. I just graduated from Vanderbilt with a degree in
+      economics and a minor in computer science and Mediterranean studies. I’m
+      from Miami and feel most like myself by the ocean, out in nature, or
+      running around a tennis court or soccer field.
+
+
+      ### I’ve been thinking a lot about how much of our lives are already
+      wrapped up in technology, and how little say most people have in how it
+      all works. In a class with Professor John Conley, I got to dig into the
+      technical side: how platforms are built, how they monetize attention, how
+      networks are structured, and how access can be limited or manipulated.
+      While studying abroad, I took a course with Dr. Massimo Motta and learned
+      how dominant companies use loopholes, lobbying, and market design to block
+      out competitors and entrench their power.
+
+
+      ### That combination of theory and real-world mechanics made something
+      click. I don’t just want to understand these systems — I want to push back
+      on the way they’re built. I believe access to technology should be treated
+      like infrastructure, not a privilege. That means rethinking how we
+      regulate, how we define competition, and how we protect people, not just
+      markets.
+
+
+      ### This site is where I think out loud. I’ll be writing about digital
+      power, economic systems, and the future I want to help build — one where
+      access, fairness, and accountability aren’t optional.
 
     media:
       type: ImageBlock
-      url: /images/IMG_4624.jpeg
+      url: /images/IMG_2168.jpeg
       altText: Hero image
     styles:
       self:

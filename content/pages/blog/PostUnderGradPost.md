@@ -64,9 +64,7 @@ That means:
 
 *   Terms of service written in human language, not legalese designed to confuse.
 
-*   I want regulators to act like regulators, not brand ambassadors. I want governments to stop begging tech platforms for favors and start reclaiming public oversight over systems that now define citizenship, labor, and survival.
-
-And I want the people building these systems — engineers, economists, designers, policymakers — to ask themselves a basic question: Who is this for? If the answer isn’t everyone, start over.
+I want regulators to act like regulators, not brand ambassadors. I want governments to stop begging tech platforms for favors and start reclaiming public oversight over systems that now define citizenship, labor, and survival. And I want the people building these systems — engineers, economists, designers, policymakers — to ask themselves a basic question: Who is this for? If the answer isn’t everyone, start over.
 
 Milton Friedman once warned that both government and private monopolies threaten the consumer. In 2025, the line between the two is blurry. What we’re facing is the monopoly of infrastructure itself — a handful of private companies owning the rails of modern life.
 

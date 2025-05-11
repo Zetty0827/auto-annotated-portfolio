@@ -15,12 +15,13 @@ sections:
     backgroundSize: full
     title: 'Hi, I am massimo'
     subtitle: >-
-      Hi, I’m Massimo Moscetti. I’m interested in competition economics and
-      policy, especially how digital platforms maintain power and how they can
-      be regulated to create fairer markets.This is my personal website, where
-      I’ll share my thoughts on economics, competition policy, and current
-      events. I’ll be posting about new developments, my opinions on economic
-      news, and other topics that interest me.
+      I’m fascinated by how digital systems shape the world—and frustrated by
+      how often they leave people behind. I write about competition, tech
+      monopolies, and the policies meant to keep things fair. But deeper than
+      that, I care about access: who gets it, who doesn’t, and what that says
+      about the systems we live in. This site is my way of thinking through
+      those questions out loud. I don’t have all the answers, but I believe in
+      asking better ones.
     styles:
       self:
         height: auto

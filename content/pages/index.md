@@ -15,13 +15,18 @@ sections:
     backgroundSize: full
     title: 'Hi, I am massimo'
     subtitle: >-
-      I’m fascinated by how digital systems shape the world—and frustrated by
-      how often they leave people behind. I write about competition, tech
-      monopolies, and the policies meant to keep things fair. But deeper than
-      that, I care about access: who gets it, who doesn’t, and what that says
-      about the systems we live in. This site is my way of thinking through
-      those questions out loud. I don’t have all the answers, but I believe in
-      asking better ones.
+      I spend a lot of time thinking about how technology and data are changing
+      the way we live, work, and interact. Some days, it’s financial markets or
+      the influence of digital platforms. Other times, it’s the less obvious
+      rules running everything in the background. What interests me most is
+      what’s actually driving these shifts—and who is overlooked. Access and
+      opportunity matter to me, but I’m just as focused on the people who get
+      left behind when things move forward. This site is my attempt to sort
+      through all of it. Sometimes that means digging into the numbers. Other
+      times, it means calling out what doesn’t add up, or just pushing back when
+      the story feels too neat. I don’t pretend to have everything figured out.
+      But I do believe that asking the right questions matters, especially in a
+      world that rarely slows down for answers.
     styles:
       self:
         height: auto

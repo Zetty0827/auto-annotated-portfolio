@@ -15,7 +15,7 @@ sections:
     backgroundSize: full
     text: >+
       ### I’m Massimo. I just graduated from Vanderbilt with a degree in
-      economics and a minor in computer science and Mediterranean studies. I’m
+      economics and minors in computer science and Mediterranean studies. I’m
       from Miami and feel most like myself by the ocean, out in nature, or
       running around a tennis court or soccer field.
 

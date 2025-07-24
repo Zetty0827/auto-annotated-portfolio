@@ -60,7 +60,7 @@ This whole project is about cutting through the usual talk and actually seeing h
 
 ## What I learned
 
-1.  ### Growth, Risk, and the Experience 
+### Growth, Risk, and the Experience 
 
 Compound Annual Growth Rate (CAGR): 
 
@@ -102,7 +102,7 @@ Despite all its swings, Bitcoin’s return for the risk taken is similar to the 
 
 If you invested $100 in Bitcoin and just held on, you’d have the biggest gains—but you would have had to sit through extreme ups and downs. QQQ beat SPY on both growth and risk-adjusted returns, showing the tech tilt has paid off for investors.
 
-1.  ### Are These Differences Real? 
+### Are These Differences Real? 
 
 Investing isn’t just about eye-popping averages—you want to know if the results are reliable, or if you just got lucky. That’s where statistical tests come in.
 
@@ -114,7 +114,7 @@ Mann-Whitney U Test: Rather than only comparing averages, this test looks at the
 
 Bitcoin’s returns aren’t just higher on average—they’re much more extreme. You get far more quarters with massive wins and massive losses, compared to stocks. This means that holding Bitcoin isn’t just about chasing a higher return, but also accepting much bigger swings, for better or worse.
 
-1.  ### Do These Assets Move Together?
+### Do These Assets Move Together?
 
 Correlation measures whether assets move in sync or not. A value of 1 means they move together perfectly; 0 means they move totally independently. ​​Beta measures how much an asset moves compared to a benchmark—here, it’s “rolling,” meaning it’s recalculated over a moving window so you can see how relationships shift over time.
 
@@ -128,7 +128,7 @@ Correlation measures whether assets move in sync or not. A value of 1 means they
 
 Bitcoin only loosely tracks the stock indexes. Sometimes it rises when stocks fall, and vice versa. That means adding Bitcoin to a traditional portfolio can offer real diversification, sometimes softening the blow during stock selloffs—but it can also make things bumpier overall.
 
-1.  ### How Bad Can It Get?
+### How Bad Can It Get?
 
 Volatility tells you how much an asset’s value jumps around each quarter. Value at Risk (VaR) and Conditional VaR (CVaR) are ways to size up the worst-case scenarios.
 
@@ -160,7 +160,7 @@ CVaR (Average of Worst 5% Quarters):
 
 This graph shows the volatility over time for each of the assets. Both the S\&P and NASDAQ have low and fairly stable volatility. Bitcoin on the other starts off much higher, but is on a path towards stabilization.
 
-1.  ### What Drives These Returns?
+### What Drives These Returns?
 
 I ran OLS regressions to see if common factors like the market, interest rates, or inflation can explain how these assets move.
 
@@ -172,11 +172,11 @@ I ran OLS regressions to see if common factors like the market, interest rates, 
 
 R²: A high R² (like SPY) means the asset’s returns are predictable from big-picture trends. A low R² (like BTC) means a lot is happening that standard models can’t explain.
 
-1.  ### What Might Happen Next?
+### What Might Happen Next?
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdBTGzl-T_jYdNHJk0A6_dyjajGz4NkQsjWs1g7BJR1cZfcJs-5M5Vgn2gzq2bE3yIwdVRM267gS4BFAbczT7bdsDYStEP8hdc4j4hTIUVz9qMpaO4u_oNyigMJS335r_SpBjG9pQ?key=PJsXnYpGWPzp0jbCzYmaZw)ARIMA models future returns based on past trends and cycles. For SPY and QQQ, the forecast lines are smooth and steady—they’re expected to keep producing similar returns to the past. For Bitcoin, the ARIMA forecast shows high expected returns despite its volatility.![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfjQDzouQfNT2ZaWCHt6ZS73hAobwn3f3fCxCi5YtKnpP0lW3HBoTGjA_FSOhluncmW17dgGQQN_FC4Hv8-Jhi3fOkKUrUJRLQTJ--MmANu3GxTI0EfXGblZ3GAFJvIWFp1R_xK?key=PJsXnYpGWPzp0jbCzYmaZw)GARCH models forecast how risky (volatile) each asset will be. Stocks are projected to stay low-risk, with volatility barely moving. Bitcoin’s volatility, despite being much higher than the others, is on a downtrend.
 
-1.  ### Monte Carlo Simulation: Many Possible Futures
+### Monte Carlo Simulation: Many Possible Futures
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdJypQPbkhKvx2SSPnh5bgZYpBgxw_h_loV31y3pXvA054WwqO6nzmADmVIejWNLp39ohyY-ZsLS-ovBIPFv0m3wDJ2QWRc29Ijs5HNbnZs39wy2lnTH5Tp-vIss891KYZxT1E4xw?key=PJsXnYpGWPzp0jbCzYmaZw)
 
@@ -190,7 +190,7 @@ A Monte Carlo simulation doesn’t just give you an average—it shows you the r
 
 This isn’t about predicting a single future, but showing the real odds: With Bitcoin, the chance for outlier success is huge, but so is the risk of disappointment. Stocks offer much more predictability, but not the same shot at outsized gains.
 
-1.  ###  Stress Test: FTX Collapse and Real-World Shocks
+### Stress Test: FTX Collapse and Real-World Shocks
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcdkQ1RCsNG0e0b8xWxmea1dM21bbST2WrFhjjQN1Neu4UVcyBxXh4EN5pLg3sZV8bcJPp925Jgm9JljCOgfN2AXXONCwqiISVhxrpcxlv2vTetgB75yEbMPA0Zy5lHFoIQ2BT-gg?key=PJsXnYpGWPzp0jbCzYmaZw)The FTX collapse in late 2022 was a huge moment for crypto. When I zoomed in, Bitcoin, SPY, and QQQ all dropped—but none of the drops were extreme for their own histories. For Bitcoin, even a collapse like FTX is “just another bad quarter.” The t-stat was -0.31 and the p-value was 0.77.
 

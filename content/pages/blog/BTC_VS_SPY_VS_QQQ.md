@@ -2,7 +2,11 @@
 type: PostLayout
 title: Comparing Bitcoin to the S&P and the NASDAQ
 date: '2025-07-24'
-excerpt: ''
+excerpt: >-
+  I compared Bitcoin’s performance to the S&P 500 and Nasdaq using real market
+  data from the past several years. The goal was to see how these popular
+  indexes stack up against crypto in today’s markets—looking at growth, risk,
+  and how each one handles market shocks.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'

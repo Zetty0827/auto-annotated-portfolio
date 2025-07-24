@@ -69,7 +69,7 @@ sections:
     posts:
       - content/pages/blog/PostUnderGradPost.md
       - content/pages/blog/post7.md
-      - content/pages/blog/post-six.md
+      - content/pages/blog/BTC_VS_SPY_VS_QQQ.md
     showDate: true
     showExcerpt: true
     showReadMoreLink: true

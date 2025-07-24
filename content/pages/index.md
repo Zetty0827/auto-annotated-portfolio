@@ -68,8 +68,8 @@ sections:
         url: /blog
     posts:
       - content/pages/blog/PostUnderGradPost.md
-      - content/pages/blog/post7.md
       - content/pages/blog/BTC_VS_SPY_VS_QQQ.md
+      - content/pages/blog/post7.md
     showDate: true
     showExcerpt: true
     showReadMoreLink: true

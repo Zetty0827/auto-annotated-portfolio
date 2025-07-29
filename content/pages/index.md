@@ -67,7 +67,7 @@ sections:
         label: See all posts
         url: /blog
     posts:
-      - content/pages/blog/post7.md
+      - content/pages/blog/Economic_Recession_Model.md
       - content/pages/blog/BTC_VS_SPY_VS_QQQ.md
       - content/pages/blog/PostUnderGradPost.md
     showDate: true

@@ -3,8 +3,8 @@ type: PostLayout
 title: Is a Recession Coming?
 date: '2025-07-29'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Reworking the Fed's recession probability model to gain new insights into the
+  state of the US economy.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'

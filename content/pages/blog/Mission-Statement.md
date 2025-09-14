@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: ''
+title: An Economics of Equal Worth
 date: '2025-09-13'
 excerpt: ''
 featuredImage:

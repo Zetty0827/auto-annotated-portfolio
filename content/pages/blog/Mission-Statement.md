@@ -5,7 +5,7 @@ date: '2025-09-13'
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/IMG_2675.jpeg
   altText: Post thumbnail image
   caption: Caption of the image
   elementId: ''

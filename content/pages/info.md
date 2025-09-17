@@ -44,7 +44,7 @@ sections:
 
     media:
       type: ImageBlock
-      url: /images/6f3f306c-fcce-4011-aa73-71785147d109.jpeg
+      url: /images/IMG_7713.jpeg
       altText: Hero image
     styles:
       self:

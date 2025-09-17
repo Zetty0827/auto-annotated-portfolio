@@ -13,7 +13,7 @@ postFeed:
   type: PostFeedSection
   colors: colors-f
   showDate: true
-  showAuthor: false
+  showAuthor: true
   showExcerpt: true
   showFeaturedImage: true
   showReadMoreLink: true

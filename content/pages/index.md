@@ -69,7 +69,7 @@ sections:
     posts:
       - content/pages/blog/Economic_Recession_Model.md
       - content/pages/blog/BTC_VS_SPY_VS_QQQ.md
-      - content/pages/blog/Mission-Statement.md
+      - content/pages/blog/PostUnderGradPost.md
     showDate: true
     showExcerpt: true
     showReadMoreLink: true

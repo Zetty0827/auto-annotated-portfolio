@@ -14,11 +14,11 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      ## I'm Massimo. I'm from Miami, and I feel most like myself by the ocean,
+      ### I'm Massimo. I'm from Miami, and I feel most like myself by the ocean,
       out in nature, or running around a tennis court or soccer field.
 
 
-      ## I studied economics at Vanderbilt with minors in computer science and
+      ### I studied economics at Vanderbilt with minors in computer science and
       Mediterranean studies. Before that I spent a few years doing astrophysics
       research at the University of Miami, which mostly meant sitting with messy
       datasets until they gave something up. Three of them turned into published
@@ -26,7 +26,7 @@ sections:
       technical requirements for two internal AI systems.
 
 
-      ## For a while my attention was on digital power. In a class with
+      ### For a while my attention was on digital power. In a class with
       Professor John Conley I dug into the technical side: how platforms are
       built, how they monetize attention, how networks are structured, and how
       access can be limited or manipulated. Studying abroad, a course with Dr.
@@ -35,8 +35,8 @@ sections:
       of what looked like technology turned out to be rules.
 
 
-      ## I've been traveling since I was a kid. My family's Italian, so I was in
-      and out of other countries before I had any framework for what I was
+      ### I've been traveling since I was a kid. My family's Italian, so I was
+      in and out of other countries before I had any framework for what I was
       seeing. It took years to notice I was getting annoyed in a specific way.
       Not at any one place, at a pattern. Some cities move you around
       effortlessly and you never think about why. Others waste your time in ways
@@ -49,13 +49,13 @@ sections:
       economics. It's what I'm studying, and what I want to build a career on.
 
 
-      ## I'm finishing a master's in economics at Columbia, focused on urban
+      ### I'm finishing a master's in economics at Columbia, focused on urban
       economics and economic development. I want to work on how cities get built
       and financed: the analysis behind large projects, and eventually the
       projects themselves. Miami is where I'd like that to land.
 
 
-      ## This site is where I think out loud. Mostly about cities, housing, and
+      ### This site is where I think out loud. Mostly about cities, housing, and
       the economics underneath both. Sometimes about markets and technology,
       which is where I started and which keeps turning out to be the same set of
       questions in a different costume. If any of it is useful to you, or wrong,

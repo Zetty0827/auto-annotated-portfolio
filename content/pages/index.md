@@ -26,12 +26,12 @@ sections:
       economics at Vanderbilt, then writing the requirements for two internal AI
       systems at TD Bank. Different problems, same habit of pulling at a dataset
       until it gives something up. Now I'm finishing a master's in economics at
-      Columbia, and I plan to take it back to Miami. This site is where I work
-      through it. Sometimes that means digging into the numbers. Other times it
-      means calling out what doesn't add up, or just pushing back when the story
-      feels too neat. I don't pretend to have everything figured out. But I do
-      believe that asking the right questions matters, especially in a world
-      that rarely slows down for answers.
+      Columbia. This site is where I work through it. Sometimes that means
+      digging into the numbers. Other times it means calling out what doesn't
+      add up, or just pushing back when the story feels too neat. I don't
+      pretend to have everything figured out. But I do believe that asking the
+      right questions matters, especially in a world that rarely slows down for
+      answers.
     styles:
       self:
         height: auto

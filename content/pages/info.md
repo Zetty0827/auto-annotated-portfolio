@@ -156,13 +156,17 @@ sections:
       - type: FeaturedItem
         subtitle: 'Education:'
         text: |+
-          Palmer Trinity High School Class of 2021
+          Palmer Trinity High School,  Class of 2021
 
-          Vanderbilt University Class of 2025
+          Vanderbilt University,  Class of 2025
 
           *   Major: Economics
 
           *   Minors: Computer Science, Mediterranean Studies
+
+          Columbia University, Expected 2027
+
+          *    M.A. Economics
 
         styles:
           self:

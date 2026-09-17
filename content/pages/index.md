@@ -15,18 +15,23 @@ sections:
     backgroundSize: full
     title: 'Hi, I am massimo'
     subtitle: >-
-      I spend a lot of time thinking about how technology and data are changing
-      the way we live, work, and interact. Some days, it’s financial markets or
-      the influence of digital platforms. Other times, it’s the less obvious
-      rules running everything in the background. What interests me most is
-      what’s actually driving these shifts—and who is overlooked. Access and
-      opportunity matter to me, but I’m just as focused on the people who get
-      left behind when things move forward. This site is my attempt to sort
-      through all of it. Sometimes that means digging into the numbers. Other
-      times, it means calling out what doesn’t add up, or just pushing back when
-      the story feels too neat. I don’t pretend to have everything figured out.
-      But I do believe that asking the right questions matters, especially in a
-      world that rarely slows down for answers.
+      I spend a lot of time thinking about how cities get built, and who they
+      get built for. Some days that means housing supply and land use. Other
+      times it's the financing behind a project, or the zoning rules quietly
+      deciding what's possible long before anyone breaks ground. What interests
+      me most is the gap between how development is supposed to work and how it
+      actually does. Access and opportunity matter to me, but I'm just as
+      focused on the people who get priced out when a neighborhood improves. I
+      got here sideways: astrophysics research at the University of Miami,
+      economics at Vanderbilt, then writing the requirements for two internal AI
+      systems at TD Bank. Different problems, same habit of pulling at a dataset
+      until it gives something up. Now I'm finishing a master's in economics at
+      Columbia, and I plan to take it back to Miami. This site is where I work
+      through it. Sometimes that means digging into the numbers. Other times it
+      means calling out what doesn't add up, or just pushing back when the story
+      feels too neat. I don't pretend to have everything figured out. But I do
+      believe that asking the right questions matters, especially in a world
+      that rarely slows down for answers.
     styles:
       self:
         height: auto

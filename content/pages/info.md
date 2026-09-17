@@ -122,9 +122,6 @@ sections:
         label: Problem Solving
         url: ''
       - type: Label
-        label: Time Management
-        url: ''
-      - type: Label
         label: Leadership
         url: ''
       - type: Label

@@ -61,10 +61,6 @@ sections:
       questions in a different costume. If any of it is useful to you, or wrong,
       I'm easy to find.
 
-    media:
-      type: ImageBlock
-      url: /images/IMG_7713.jpeg
-      altText: Hero image
     styles:
       self:
         height: auto

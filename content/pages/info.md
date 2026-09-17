@@ -14,38 +14,53 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      ### I’m Massimo. I just graduated from Vanderbilt with a degree in
-      economics and minors in computer science and Mediterranean studies. I’m
-      from Miami and feel most like myself by the ocean, out in nature, or
-      running around a tennis court or soccer field.
+      ### I'm Massimo. I'm from Miami, and I feel most like myself by the ocean,
+      out in nature, or running around a tennis court or soccer field.
 
 
-      ### I’ve been thinking a lot about how much of our lives are already
-      wrapped up in technology, and how little say most people have in how it
-      all works. In a class with Professor John Conley, I got to dig into the
-      technical side: how platforms are built, how they monetize attention, how
-      networks are structured, and how access can be limited or manipulated.
-      While studying abroad, I took a course with Dr. Massimo Motta and learned
-      how dominant companies use loopholes, lobbying, and market design to block
-      out competitors and entrench their power.
+      ### I studied economics at Vanderbilt with minors in computer science and
+      Mediterranean studies. Before that I spent a few years doing astrophysics
+      research at the University of Miami, which mostly meant sitting with messy
+      datasets until they gave something up. Three of them turned into published
+      papers. After Vanderbilt I worked at TD Bank, writing the business and
+      technical requirements for two internal AI systems.
 
 
-      ### That combination of theory and real-world mechanics made something
-      click. I don’t just want to understand these systems — I want to push back
-      on the way they’re built. I believe access to technology should be treated
-      like infrastructure, not a privilege. That means rethinking how we
-      regulate, how we define competition, and how we protect people, not just
-      markets.
+      ### For a while my attention was on digital power. In a class with
+      Professor John Conley I dug into the technical side: how platforms are
+      built, how they monetize attention, how networks are structured, and how
+      access can be limited or manipulated. Studying abroad, a course with Dr.
+      Massimo Motta showed me how dominant companies use loopholes, lobbying,
+      and market design to block out competitors and entrench their power. Most
+      of what looked like technology turned out to be rules.
 
 
-      ### This site is where I think out loud. I’ll be writing about digital
-      power, economic systems, and the future I want to help build — one where
-      access, fairness, and accountability aren’t optional.
+      ### I've been traveling since I was a kid. My family's Italian, so I was
+      in and out of other countries before I had any framework for what I was
+      seeing. It took years to notice I was getting annoyed in a specific way.
+      Not at any one place, at a pattern. Some cities move you around
+      effortlessly and you never think about why. Others waste your time in ways
+      that feel almost deliberate, and the difference is rarely about money or
+      beauty. The pattern bothered me before I could explain it. Eventually I
+      realized I was looking at infrastructure, and that infrastructure is
+      economics you can walk through. Reading Alain Bertaud's *Order Without
+      Design* gave me the vocabulary for the rest of it: cities aren't designed
+      so much as shaped by the constraints they're built under. That's urban
+      economics. It's what I'm studying, and what I want to build a career on.
 
-    media:
-      type: ImageBlock
-      url: /images/IMG_7713.jpeg
-      altText: Hero image
+
+      ### I'm finishing a master's in economics at Columbia, focused on urban
+      economics and economic development. I want to work on how cities get built
+      and financed: the analysis behind large projects, and eventually the
+      projects themselves. Miami is where I'd like that to land.
+
+
+      ### This site is where I think out loud. Mostly about cities, housing, and
+      the economics underneath both. Sometimes about markets and technology,
+      which is where I started and which keeps turning out to be the same set of
+      questions in a different costume. If any of it is useful to you, or wrong,
+      I'm easy to find.
+
     styles:
       self:
         height: auto
@@ -91,8 +106,6 @@ sections:
       - type: Label
         label: SQL
       - type: Label
-        label: Microsoft Office
-      - type: Label
         label: Microsoft Excel
       - type: Label
         label: Python
@@ -107,9 +120,6 @@ sections:
         url: ''
       - type: Label
         label: Problem Solving
-        url: ''
-      - type: Label
-        label: Time Management
         url: ''
       - type: Label
         label: Leadership
@@ -134,7 +144,7 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: "*   *Business Systems Analyst Intern,* TD Bank (*Summer 2024)*\n\n*   *Accounting Intern*, Cantera & Associates (*Summer 2019-2021, 2023)*\n\n*   *Intern,* Pan American Consulting Inc \_(*Summer 2022)*\n\nAcademic Research:\n\n*   Research Assistant, University of Miami Astrophysics Department\_(Summer 2023, 2018 - 2021)\n\n    *   Publications: [https://arxiv.org/pdf/2407.09617,](https://arxiv.org/pdf/2407.09617) [https://arxiv.org/pdf/2208.12271,](https://arxiv.org/pdf/2208.12271) [https://arxiv.org/pdf/2008.02283 ](https://arxiv.org/pdf/2008.02283)\n\n"
+        text: "*   *Business Systems Analyst,* TD Bank (*2025-2026)*\n\n*   *Business Systems Analyst Intern,* TD Bank (*Summer 2024)*\n\n*   *Accounting Intern*, Cantera & Associates (*Summer 2019-2021, 2023)*\n\n*   *Intern,* Pan American Consulting Inc \_(*Summer 2022)*\n\nAcademic Research:\n\n*   Research Assistant, University of Miami Astrophysics Department\_(Summer 2023, 2018 - 2021)\n\n    *   Publications: [https://arxiv.org/pdf/2407.09617,](https://arxiv.org/pdf/2407.09617) [https://arxiv.org/pdf/2208.12271,](https://arxiv.org/pdf/2208.12271) [https://arxiv.org/pdf/2008.02283 ](https://arxiv.org/pdf/2008.02283)\n\n"
         styles:
           self:
             textAlign: left
@@ -146,13 +156,17 @@ sections:
       - type: FeaturedItem
         subtitle: 'Education:'
         text: |+
-          Palmer Trinity High School Class of 2021
+          Palmer Trinity High School,  Class of 2021
 
-          Vanderbilt University Class of 2025
+          Vanderbilt University,  Class of 2025
 
           *   Major: Economics
 
           *   Minors: Computer Science, Mediterranean Studies
+
+          Columbia University, Expected 2027
+
+          *    M.A. Economics
 
         styles:
           self:

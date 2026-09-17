@@ -14,33 +14,52 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      ### I’m Massimo. I just graduated from Vanderbilt with a degree in
-      economics and minors in computer science and Mediterranean studies. I’m
-      from Miami and feel most like myself by the ocean, out in nature, or
-      running around a tennis court or soccer field.
+      'm Massimo. I'm from Miami, and I feel most like myself by the ocean, out
+      in nature, or running around a tennis court or soccer field.
 
 
-      ### I’ve been thinking a lot about how much of our lives are already
-      wrapped up in technology, and how little say most people have in how it
-      all works. In a class with Professor John Conley, I got to dig into the
-      technical side: how platforms are built, how they monetize attention, how
-      networks are structured, and how access can be limited or manipulated.
-      While studying abroad, I took a course with Dr. Massimo Motta and learned
-      how dominant companies use loopholes, lobbying, and market design to block
-      out competitors and entrench their power.
+      I studied economics at Vanderbilt with minors in computer science and
+      Mediterranean studies. Before that I spent a few years doing astrophysics
+      research at the University of Miami, which mostly meant sitting with messy
+      datasets until they gave something up. Three of them turned into published
+      papers. After Vanderbilt I worked at TD Bank, writing the business and
+      technical requirements for two internal AI systems.
 
 
-      ### That combination of theory and real-world mechanics made something
-      click. I don’t just want to understand these systems — I want to push back
-      on the way they’re built. I believe access to technology should be treated
-      like infrastructure, not a privilege. That means rethinking how we
-      regulate, how we define competition, and how we protect people, not just
-      markets.
+      For a while my attention was on digital power. In a class with Professor
+      John Conley I dug into the technical side: how platforms are built, how
+      they monetize attention, how networks are structured, and how access can
+      be limited or manipulated. Studying abroad, a course with Dr. Massimo
+      Motta showed me how dominant companies use loopholes, lobbying, and market
+      design to block out competitors and entrench their power. Most of what
+      looked like technology turned out to be rules.
 
 
-      ### This site is where I think out loud. I’ll be writing about digital
-      power, economic systems, and the future I want to help build — one where
-      access, fairness, and accountability aren’t optional.
+      I've been traveling since I was a kid. My family's Italian, so I was in
+      and out of other countries before I had any framework for what I was
+      seeing. It took years to notice I was getting annoyed in a specific way.
+      Not at any one place, at a pattern. Some cities move you around
+      effortlessly and you never think about why. Others waste your time in ways
+      that feel almost deliberate, and the difference is rarely about money or
+      beauty. The pattern bothered me before I could explain it. Eventually I
+      realized I was looking at infrastructure, and that infrastructure is
+      economics you can walk through. Reading Alain Bertaud's *Order Without
+      Design* gave me the vocabulary for the rest of it: cities aren't designed
+      so much as shaped by the constraints they're built under. That's urban
+      economics. It's what I'm studying, and what I want to build a career on.
+
+
+      I'm finishing a master's in economics at Columbia, focused on urban
+      economics and economic development. I want to work on how cities get built
+      and financed: the analysis behind large projects, and eventually the
+      projects themselves. Miami is where I'd like that to land.
+
+
+      This site is where I think out loud. Mostly about cities, housing, and the
+      economics underneath both. Sometimes about markets and technology, which
+      is where I started and which keeps turning out to be the same set of
+      questions in a different costume. If any of it is useful to you, or wrong,
+      I'm easy to find.
 
     media:
       type: ImageBlock

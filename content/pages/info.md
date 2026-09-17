@@ -106,8 +106,6 @@ sections:
       - type: Label
         label: SQL
       - type: Label
-        label: Microsoft Office
-      - type: Label
         label: Microsoft Excel
       - type: Label
         label: Python

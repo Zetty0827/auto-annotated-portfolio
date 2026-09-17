@@ -22,13 +22,6 @@
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Instagram",
-                "label": "Instagram",
-                "url": "http://instagram.com/zetty_1/",
-                "icon": "instagram"
-            },
-            {
-                "type": "Social",
                 "altText": "LinkedIn",
                 "label": "LinkedIn",
                 "url": "https://www.linkedin.com/in/massimo-moscetti-395703231/",

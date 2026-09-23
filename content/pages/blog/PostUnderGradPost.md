@@ -26,7 +26,7 @@ Technology isn’t a tool anymore — it’s infrastructure. It’s how we live,
 
 Can you get a job without internet? Buy groceries without a debit card? Apply for housing without an email address? In some cities, you can’t even get the cheapest bus fare without a smartphone. Across the world, governments and businesses are moving away from cash. In Sweden, cash is used in less than 9% of daily transactions. In India, mobile payment apps dominate everyday commerce. In cities like New York and San Francisco, card-only establishments are becoming the norm. The message is clear: if you’re not digitally connected, you’re increasingly invisible.
 
-And yet, the systems that mediate that access are privately owned, unaccountable, and often predatory.
+And yet, the systems that mediate that access are privately owned, and they answer mostly to the people who own them.
 
 Let’s talk about EULAs — End-User License Agreements. They’re the fine print you blindly accept to use your phone, your bank app, your cloud storage — basically, your life. Most people don’t read them. That’s not an accident. These documents are written to shield corporations from responsibility, not to protect users. The terms can change at any time, and if you disagree, you lose access.
 

@@ -2,7 +2,9 @@
 type: PostLayout
 title: The Infrastructure of Control
 date: '2025-05-11'
-excerpt: ''
+excerpt: >-
+  Payments, identity, and communication have become infrastructure, but they're
+  still run like products. What that means for the people who get screened out.
 featuredImage:
   type: ImageBlock
   altText: Post thumbnail image

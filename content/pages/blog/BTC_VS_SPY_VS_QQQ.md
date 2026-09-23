@@ -106,13 +106,13 @@ If you invested $100 in Bitcoin and just held on, you’d have the biggest gains
 
 Investing isn’t just about eye-popping averages—you want to know if the results are reliable, or if you just got lucky. That’s where statistical tests come in.
 
-T-test: Tests if Bitcoin’s average return is really different from the indexes, or if it’s just a statistical fluke. A p-value below 0.05 means you can be pretty sure it’s a real difference (by conventional research standards). Here, BTC vs QQQ is 0.12, BTC vs SPY is 0.10. These are “suggestive” (the difference is probably real) but not conclusive at the strictest standard, partly due to Bitcoin’s short history and huge swings.
+T-test: Tests if Bitcoin’s average return is really different from the indexes, or if it’s just a statistical fluke. A p-value below 0.05 means you can be pretty sure it’s a real difference (by conventional research standards). Here, BTC vs QQQ is 0.12, BTC vs SPY is 0.10. Neither clears the 0.05 bar, so I can't call the difference significant. They're close enough to be worth noting, and with only 22 quarters of Bitcoin data, a real difference could easily fail to show up.
 
 ANOVA: Looks at all three assets together to see if at least one has an average return that stands out. With a p-value of 0.085, it’s just shy of being “statistically significant,” but it does suggest something unusual is going on—especially with Bitcoin’s numbers.
 
 Mann-Whitney U Test: Rather than only comparing averages, this test looks at the entire spread of returns. It asks: Do these assets give you the same kind of ride, or are they fundamentally different in how gains and losses show up?
 
-Bitcoin’s returns aren’t just higher on average—they’re much more extreme. You get far more quarters with massive wins and massive losses, compared to stocks. This means that holding Bitcoin isn’t just about chasing a higher return, but also accepting much bigger swings, for better or worse.
+The results came back at p = 0.50 against QQQ and p = 0.45 against SPY, so by this test I can't tell the distributions apart. That surprised me given how different the volatility numbers look, and I think it's mostly a sample size problem. Twenty-two quarters of Bitcoin data isn't much. The volatility and drawdown numbers below make the difference clearer than the significance tests can.
 
 ### Do These Assets Move Together?
 
@@ -156,6 +156,8 @@ CVaR (Average of Worst 5% Quarters):
 
 *   SPY: -15.7%
 
+One thing that looks off but isn't: QQQ's 5% VaR is shallower than SPY's, even though QQQ is more volatile and had a deeper max drawdown. That comes from the window. Starting in mid-2009 cuts out the 2008 crash, and since then QQQ's bad quarters have been milder than the S\&P's while its good quarters have been much better. More volatile, but the swings lean upward.
+
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXc-whDjkc0sCfhJUZ8X3VgJoHIQsAORBcOdwus985AOarJrepv0OU--cHEvNas4czE0lbfO-rUNsfWc1_fxe6JcGxKzWPZrRKL4oWkm-hRng6Oj2HWS3yMaaak5NEs3uquHyNVY5Q?key=PJsXnYpGWPzp0jbCzYmaZw)
 
 This graph shows the volatility over time for each of the assets. Both the S\&P and NASDAQ have low and fairly stable volatility. Bitcoin on the other starts off much higher, but is on a path towards stabilization.
@@ -164,13 +166,13 @@ This graph shows the volatility over time for each of the assets. Both the S\&P 
 
 I ran OLS regressions to see if common factors like the market, interest rates, or inflation can explain how these assets move.
 
-*   SPY: R² = 1.00 (market explains almost everything)
+*   SPY: R² = 1.00 (this one is circular, since SPY is the market factor, so I'm leaving it as a reference point rather than a result)
 
 *   QQQ: R² = 0.82 (market and tech explain most of the moves)
 
 *   BTC-USD: R² = 0.32 (not linked to broad economic factors)
 
-R²: A high R² (like SPY) means the asset’s returns are predictable from big-picture trends. A low R² (like BTC) means a lot is happening that standard models can’t explain.
+R²: A high R² (like QQQ) means the asset's returns are predictable from big-picture trends. A low R² (like BTC) means a lot is happening that standard models can't explain.
 
 ### What Might Happen Next?
 
@@ -198,7 +200,7 @@ A p-value below 0.05 is the benchmark for calling a result “significant”—i
 
 ## Limitations
 
-*   We don’t have much Bitcoin data—just since 2020. That means a few big quarters can swing the whole comparison.
+*   We don't have much Bitcoin data—just since 2020, which works out to 22 quarterly observations. That means a few big quarters can swing the whole comparison, and it's thin for the GARCH and ARIMA forecasts in particular. Those models usually want a lot more history than that.
 
 *   The stock indexes start in 2009, so the periods don’t really line up. We’re not seeing how these assets behave through the same cycles.
 
@@ -220,9 +222,9 @@ A p-value below 0.05 is the benchmark for calling a result “significant”—i
 
 1.  The S\&P 500 isn’t the gold standard it’s made out to be. The data shows that the Nasdaq (QQQ) has left the S\&P behind, both in growth and risk-adjusted returns. Tech-driven stocks have been where the real gains happened.
 
-2.  Crypto’s story is still unfolding. Despite its reputation for wild swings, the overall trend in Bitcoin’s volatility is downward—and the growth, so far, is unmatched. If that trend holds, ignoring crypto could mean missing out. Whether you add it to your portfolio or not comes down to your own risk appetite, but being “crypto-free” may be riskier than people think.
+2.  Bitcoin's returns are real, but the risk-adjusted case is weaker than the headline. The raw growth is unmatched at 65.8% a year since 2020. But the Sharpe ratio comes in at 0.46, below both QQQ and SPY, so you're not actually getting paid more for the risk you take. Sortino is friendlier at 0.88, so if you only care about downside swings it looks better. The volatility trend is heading down, which is the most interesting thing in the data. Five years isn't enough to say whether that's a trend or a phase.
 
-3.  It’s not too late to join the crypto train. Crypto isn’t just about price speculation. It’s a way to access decentralized finance, hedge against traditional financial system risks, and participate in new digital economies. Crypto’s blockchain technology can also lower transaction costs, improve transparency, and allow for faster global payments.
+3.  The diversification argument is the stronger one. Bitcoin's correlation to stocks sits around 0.5, and market returns, rates, and inflation together explain only about a third of how it moves. Most of what drives Bitcoin isn't in the standard models. That independence is what makes it useful in a portfolio, more than the returns. It also means the usual tools can't tell you much about where it goes next.
 
 4.  Personally, I’m moving away from buy-and-hold S\&P 500 investing and focusing more on the Nasdaq for long-term growth. I will keep investing in crypto, but I’ll be watching closely—potentially using active strategies to take advantage of its still-immature market dynamics.
 

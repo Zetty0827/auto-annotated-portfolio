@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Is a Recession Coming?
+title: Rebuilding the Fed's Recession Probability Model
 date: '2025-07-29'
 excerpt: >-
   Reworking the Fed's recession probability model to gain new insights into the

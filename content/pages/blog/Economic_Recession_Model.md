@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Is a Recession Coming?
+title: Rebuilding the Fed's Recession Probability Model
 date: '2025-07-29'
 excerpt: >-
   Reworking the Fed's recession probability model to gain new insights into the
@@ -28,9 +28,9 @@ backgroundImage:
   opacity: 100
 author: content/data/team/doris-soto.json
 ---
-Since Donald Trump returned to office in January 2025, the U.S. economy hasn’t had a chance to catch its breath. Right out the gate, his administration slapped tariffs back on imports from China, Mexico, Canada, and others—driving up costs for both manufacturers and regular people. Then came the “Big Beautiful Budget Bill,” extending previous Trump-era tax cuts and sending another wave of money toward infrastructure and defense. Along with that, stricter immigration rules and new limits on Medicaid and food stamps marked a sharp shift in federal priorities.
+A lot of policy has hit the economy since January 2025. Tariffs went back on imports from China, Mexico, Canada, and others, which raised costs for manufacturers and for anyone buying what they make. The "Big Beautiful Budget Bill" extended the earlier tax cuts and pushed new money toward infrastructure and defense. Stricter immigration rules and new limits on Medicaid and food stamps came with it.
 
-To pay the bill, Treasury Secretary Scott Bessent ramped up government borrowing, leaning especially hard on short-term bonds. The plan? Bet that rates will come down soon, so refinancing gets cheaper. But Fed Chair Jerome Powell isn’t budging. Trump is publicly calling for deep rate cuts to juice the economy, while Powell keeps pushing back, worried about stubborn inflation and the fallout from all this new spending and trade policy.
+Paying for all that falls to Treasury Secretary Scott Bessent, who's been borrowing heavily on the short end. The bet is that rates drop and refinancing gets cheaper. So far the Fed hasn't played along. Trump wants deep cuts, Powell won't move, and his reasoning is that inflation hasn't settled and nobody knows yet how the spending and the tariffs feed through.
 
 Looking at the data, wage growth has cooled off, so most workers aren’t seeing much growth in their paychecks. The prime-age employment rate—basically, how many 25- to 54-year-olds are working—has flattened out, which points to a job market that’s losing steam. Credit spreads—the gap between what companies and the government pay to borrow—have actually narrowed a bit, so markets aren’t panicking yet. But the yield curve is still inverted: when short-term rates are higher than long-term, it’s a sign that investors are bracing for rough times. Debt service ratios—share of household income goes toward paying off debt—are creeping up again after a drop during the pandemic. That means more families are shelling out for debt(loans, credit cards, etc...) which could become a problem if rates don’t fall or unemployment rises. On top of that, Google searches for “recession” have been bouncing around, telling you that people aren’t exactly feeling secure.
 
@@ -84,15 +84,15 @@ Google Trends for “recession” show a clear pattern: spikes before and during
 
 ## What’s Next?
 
-At the end of the day, no matter how much you model or analyze, you can’t say for sure a recession is coming—if someone says otherwise, they’re probably selling you something. Even top economists and the Fed can’t fully predict these things. But if you look past the headlines—at the numbers, the mood at the Fed, and what people are actually saying—you see a country stuck in a cycle of instability and reaction.
+No model settles this. Recession calls are probabilities, not predictions, and anyone telling you they know is selling something. What the model does is show you which signals are firing and which ones aren't.
 
-Trump’s team keeps tossing out big numbers and talking up trade deals with Japan and the EU, but when you check for real details, it never quite adds up. The debt keeps growing, but regular people aren’t seeing any payoff. For most, nothing’s getting easier.
+Right now they don't agree. The financial market side is flashing. The yield curve has been inverted since 2022 and still hasn't resolved, and with the 12-month lag that fit best, that puts us deep inside the window where the signal has mattered historically. The real economy side is softer. Prime-age employment has flattened, but it hasn't dropped. Wage growth is slowing, but it hasn't reversed. Credit spreads are still narrow, which means markets aren't pricing in trouble at all.
 
-And it’s not just numbers—it’s real life. There’s a clear disconnect between those making decisions and everyone else. No matter how many speeches you hear about “growth” and “opportunity,” it just keeps getting tougher to get ahead. Wages aren’t keeping up, debt’s a bigger burden, and the cost of living is squeezing everyone. People aren’t buying the spin—they’re just trying to get by.
+The place I'd watch is households. Debt service climbing while wages slow is the combination that turns a soft patch into a real one.
 
-So where does that leave us? I can’t guarantee a recession is coming—but if we keep this up, it sure feels like that’s where we’re headed. You can’t keep reaching for quick fixes and dodging the hard choices forever. At some point, we need to put people first, face reality, and come up with a real plan. America doesn’t need another sales pitch. It needs something real.
+So: risk is elevated, mostly on the strength of market signals that haven't shown up in jobs or spending yet.
 
-
+Here's what would change my read. If prime-age employment starts falling instead of flattening, this moves from elevated to likely. If credit spreads widen, markets have caught up to the curve. Going the other way, if the curve normalizes while employment holds, the 2022 inversion was probably a false alarm. That happens, and my model can't rule it out, since Google Trends caps my data at 2004 and I never got to test it against the older recessions.
 
 Want to see the numbers and my work behind the scenes? Check out my Github:
 
@@ -101,5 +101,3 @@ Want to see the numbers and my work behind the scenes? Check out my Github:
 Want to see the Fed's model? Click the link below:
 
 [https://www.newyorkfed.org/research/capital\_markets/ycfaq#/ ](https://www.newyorkfed.org/research/capital_markets/ycfaq#/)
-
-

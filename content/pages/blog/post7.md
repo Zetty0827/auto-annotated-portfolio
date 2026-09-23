@@ -2,7 +2,10 @@
 type: PostLayout
 title: 'Regulating Big Tech: Will the EU Finally Rein in Google?'
 date: '2025-03-20'
-excerpt: ''
+excerpt: >-
+  The EU says Google favors its own services in search and locks developers into
+  its Play Store. What the case is about, and why fines alone probably won't
+  change much.
 featuredImage:
   type: ImageBlock
   url: /images/GoogleEU.jpg

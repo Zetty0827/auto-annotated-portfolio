@@ -38,7 +38,7 @@ This isn’t limited to cloud storage or photos. It’s happening in finance, to
 
 Globally, 1.4 billion people still live without a bank account. In the U.S., nearly 6 million households are unbanked, and millions more are “underbanked,” relying on expensive workarounds like payday loans or check-cashing services. And it’s not because they’re irresponsible. It’s because they’ve been priced out, filtered out, or ignored.
 
-Regulations like KYC (Know Your Customer) and AML (Anti-Money Laundering) are supposed to prevent fraud and criminal activity. But in reality, they often block people without stable documentation, like unhoused individuals, immigrants, or the poor, from opening accounts. Add the $40+ compliance cost per new user, and banks have every incentive to exclude.
+Regulations like KYC (Know Your Customer) and AML (Anti-Money Laundering) are supposed to prevent fraud and criminal activity. But in reality, they often block people without stable documentation, like unhoused individuals, immigrants, or the poor, from opening accounts. Onboarding a customer has real compliance costs, and a low-balance account rarely covers them, so banks have every incentive to exclude.
 
 Fintech was supposed to change that. Instead, it put the same barriers behind prettier screens.
 
@@ -50,30 +50,11 @@ And if your behavior becomes inconvenient to the platform — politically, finan
 
 This is how people get digitally exiled — not for crimes, but for misalignment. This is how control works in the age of infrastructure.
 
-So let me be clear about what I want.
+There's an old answer to this problem, and it's worth remembering. When railroads, telephone lines, and electric grids became things you couldn't live without, we didn't leave access up to whether you were profitable to serve. We treated them as common carriers and utilities and attached obligations to them. Serve everyone at posted rates. Don't discriminate. Don't cut people off without some kind of process. Universal service funds paid to wire rural areas that no company would have wired on its own.
 
-I want a world where access to money, information, and communication is treated as a right, not a reward. I want a digital and financial infrastructure that is open, accountable, and built around human dignity, not user retention. I want tools that include people, not screen them out.
+Digital payments and identity haven't gotten that treatment, mostly because they didn't look like infrastructure when the rules were written. They do now.
 
-That means:
+Milton Friedman, who was no fan of regulation, argued that when you're dealing with monopoly you're choosing between private monopoly, public monopoly, and public regulation, and that all three are bad. You pick the least bad one. That's the honest version of this problem. Leave it alone and exclusion gets priced in. Regulate it and you get new costs and new ways for the rules to be captured.
 
-*   Public digital wallets that don’t require perfect paperwork or a smartphone.
+There are real options on the table: a basic account that doesn't require perfect paperwork, KYC requirements that scale with the risk of the account instead of applying the same checks to everyone, interoperability rules so switching providers isn't a trap, and terms of service short enough to actually read. Each one trades something away. But they're all answers to the same question we already answered for water and electricity: once something becomes a condition of participating in society, who's responsible for making sure people can get it?
 
-*   KYC/AML reform that protects both security and accessibility.
-
-*   Interoperable systems that break corporate lock-in.
-
-*   Privacy that’s protected by law, not buried in a settings menu.
-
-*   Terms of service written in human language, not legalese designed to confuse.
-
-I want regulators to act like regulators, not brand ambassadors. I want governments to stop begging tech platforms for favors and start reclaiming public oversight over systems that now define citizenship, labor, and survival. And I want the people building these systems — engineers, economists, designers, policymakers — to ask themselves a basic question: Who is this for? If the answer isn’t everyone, start over.
-
-Milton Friedman once warned that both government and private monopolies threaten the consumer. In 2025, the line between the two is blurry. What we’re facing is the monopoly of infrastructure itself — a handful of private companies owning the rails of modern life.
-
-I'm not okay with that. You shouldn't be either.
-
-You shouldn't need to sign away your rights to join society. You shouldn't lose your agency because you lost your phone. You shouldn't have to scroll through 38 pages of fine print to prove you deserve access to your own life.
-
-Because if we don’t act now, the future won’t be stolen all at once.
-
-It’ll be licensed away, one silent update at a time.
